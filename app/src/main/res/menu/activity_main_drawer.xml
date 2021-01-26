@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_newtask"
+            android:icon="@drawable/round_insert"
+            android:title="New Task" />
+        <item
+            android:id="@+id/nav_voicetask"
+            android:icon="@drawable/round_mic"
+            android:title="Voice Task" />
+        <item
+            android:id="@+id/nav_clearall"
+            android:icon="@drawable/del"
+            android:title="Clear all" />
+        <item
+            android:id="@+id/nav_exit"
+            android:icon="@drawable/icexit"
+            android:title="Exit app" />
+        <item
+            android:id="@+id/scratchpad"
+            android:icon="@drawable/edit"
+            android:title="Scratch Sign"/>
+
+
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_version"
+                android:icon="@drawable/iconsss"
+                android:title="About" />
+        </menu>
+    </item>
+
+</menu>

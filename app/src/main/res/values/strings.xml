@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Schedone</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_delete">ClearAll</string>
+    <string name="action_exit">Exit</string>
+    <string name="title_activity_updating">updating</string>
+    <string name="about">Schedone stands for schedule and done. The aims of this app is to help people organize their schedule and finish their loads as fast as posible. Developed by Tran Cong Nam and Vo Minh Don from University of Information Technology </string>
+</resources>
